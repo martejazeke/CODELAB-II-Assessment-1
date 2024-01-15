@@ -1,4 +1,0 @@
-Hello, my name is Peter Parker
-I love Python Programming
-Love
-Enemy  
